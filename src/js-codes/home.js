@@ -31,7 +31,7 @@ function home() {
           <h2>03</h2>
           <h3>Skill Three</h3>
           <p>Here I create a login form which displays user information in the end</p>
-          <a href="/form">Visit</a>
+          <Link to="/form">Visit</Link>
         </div>
       </div>
 
@@ -40,7 +40,7 @@ function home() {
           <h2>04</h2>
           <h3>Skill Four</h3>
           <p>Here I create a quiz which displays score in the end</p>
-          <a href="/quiz">Visit</a>
+          <Link to="/quiz">Visit</Link>
         </div>
       </div>
     </div>
