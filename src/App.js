@@ -4,7 +4,7 @@ import ID from './js-codes/id';
 import Counter from './js-codes/counter';
 import Form from './js-codes/form'
 import Quiz from './js-codes/quiz'
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+import { HashRouter as Router, Route, Switch } from 'react-router-dom'
 
 function App() {
   return (
