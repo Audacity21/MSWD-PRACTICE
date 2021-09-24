@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/MSWD-PRACTICE/static/css/main.89e3b401.chunk.css",
-    "main.js": "/MSWD-PRACTICE/static/js/main.256a6589.chunk.js",
-    "main.js.map": "/MSWD-PRACTICE/static/js/main.256a6589.chunk.js.map",
+    "main.js": "/MSWD-PRACTICE/static/js/main.ef1c69a3.chunk.js",
+    "main.js.map": "/MSWD-PRACTICE/static/js/main.ef1c69a3.chunk.js.map",
     "runtime-main.js": "/MSWD-PRACTICE/static/js/runtime-main.7208024c.js",
     "runtime-main.js.map": "/MSWD-PRACTICE/static/js/runtime-main.7208024c.js.map",
-    "static/js/2.9bb6d14d.chunk.js": "/MSWD-PRACTICE/static/js/2.9bb6d14d.chunk.js",
-    "static/js/2.9bb6d14d.chunk.js.map": "/MSWD-PRACTICE/static/js/2.9bb6d14d.chunk.js.map",
+    "static/js/2.8cc792b2.chunk.js": "/MSWD-PRACTICE/static/js/2.8cc792b2.chunk.js",
+    "static/js/2.8cc792b2.chunk.js.map": "/MSWD-PRACTICE/static/js/2.8cc792b2.chunk.js.map",
     "static/js/3.496bd1d4.chunk.js": "/MSWD-PRACTICE/static/js/3.496bd1d4.chunk.js",
     "static/js/3.496bd1d4.chunk.js.map": "/MSWD-PRACTICE/static/js/3.496bd1d4.chunk.js.map",
     "index.html": "/MSWD-PRACTICE/index.html",
     "static/css/main.89e3b401.chunk.css.map": "/MSWD-PRACTICE/static/css/main.89e3b401.chunk.css.map",
-    "static/js/2.9bb6d14d.chunk.js.LICENSE.txt": "/MSWD-PRACTICE/static/js/2.9bb6d14d.chunk.js.LICENSE.txt",
+    "static/js/2.8cc792b2.chunk.js.LICENSE.txt": "/MSWD-PRACTICE/static/js/2.8cc792b2.chunk.js.LICENSE.txt",
     "static/media/images.09898348.png": "/MSWD-PRACTICE/static/media/images.09898348.png",
     "static/media/linkedin.238ec218.png": "/MSWD-PRACTICE/static/media/linkedin.238ec218.png",
     "static/media/logo.070342bb.png": "/MSWD-PRACTICE/static/media/logo.070342bb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7208024c.js",
-    "static/js/2.9bb6d14d.chunk.js",
+    "static/js/2.8cc792b2.chunk.js",
     "static/css/main.89e3b401.chunk.css",
-    "static/js/main.256a6589.chunk.js"
+    "static/js/main.ef1c69a3.chunk.js"
   ]
 }
